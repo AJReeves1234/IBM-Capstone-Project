@@ -1,0 +1,1 @@
+My goal is to open a pub somewhere in England, to qualify the a location I need it to satisfy many conditions. I will be attempting to create a ranking system based on local amenities and user activity gathered from the Foursquare API.
