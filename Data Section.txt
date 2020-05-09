@@ -1,0 +1,5 @@
+I will be using a County/City subset of data from the "Every Pub in England" Kaggle dataset combined with location venue information gathered from the foursquare API to help me decide exactly where my pub is best placed. 
+
+Here is the link to my dataset:
+
+https://raw.githubusercontent.com/AJReeves1234/IBM-Capstone-Project/master/open_pubs.csv
